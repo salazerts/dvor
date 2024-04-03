@@ -45,7 +45,7 @@
       <label enabled="1" textcolor="0x000000" wordwrap="1" textalpha="1" background="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" width="180" border="1" borderradius="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot tilt="-2.31" url="{node3}" pan="-2.56" id="Point01" skinid="ht_node" title="Детские плошадки" target="" description=""/>
-      <hotspot tilt="-1.05" url="" pan="157.07" id="Point02" skinid="ht_url" title="Вход во двор со сторны бульвара" target="_blank" description=""/>
+      <hotspot tilt="-1.05" url="{node1}" pan="157.07" id="Point02" skinid="ht_node" title="Вход во двор со сторны бульвара" target="" description=""/>
     </hotspots>
     <media/>
     <transition enabled="0" zoomafterinfov="90" softedge="0" zoomfov="20" zoomin="0" zoomspeed="2" zoomout="0" blendtime="1" blendcolor="0x000000" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1"/>
@@ -61,7 +61,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start tilt="-19.86" pan="-10.53" projection="4" fov="70"/>
+      <start tilt="-3.12" pan="-2.68" projection="4" fov="70"/>
       <flyin tilt="-90" pan="0" projection="9" fov="170"/>
       <min tilt="-90" pan="0" fov="5"/>
       <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270"/>
@@ -85,7 +85,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start tilt="3.24" pan="90.91" projection="4" fov="70"/>
+      <start tilt="-3.12" pan="-2.68" projection="4" fov="70"/>
       <flyin tilt="-90" pan="0" projection="9" fov="170"/>
       <min tilt="-90" pan="0" fov="5"/>
       <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270"/>
@@ -159,7 +159,7 @@
       <preview strip="1" color="0x808080"/>
     </input>
     <view fovmode="0" pannorth="0">
-      <start tilt="-1.47" pan="1.2" projection="4" fov="70"/>
+      <start tilt="-1.89" pan="-1.13" projection="4" fov="70"/>
       <flyin tilt="-90" pan="0" projection="9" fov="170"/>
       <min tilt="-90" pan="0" fov="5"/>
       <max tilt="90" pan="360" scaletofit="1" fovfisheye="360" fov="120" fovstereographic="270"/>
