@@ -95,7 +95,7 @@
       <label enabled="1" textcolor="0x000000" wordwrap="1" textalpha="1" background="1" bordercolor="0x000000" height="20" backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" width="180" border="1" borderradius="1"/>
       <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
       <hotspot tilt="-1.81" url="{node5}" pan="93.81" id="Point01" skinid="ht_node" title="Мягкая зона" target="" description=""/>
-      <hotspot tilt="2.17" url="{node6}" pan="178.92" id="Point02" skinid="ht_node" title="Лифтовый холл" target="" description=""/>
+      <hotspot tilt="2.06" url="{node6}" pan="178.92" id="Point02" skinid="ht_node" title="Лифтовый холл" target="" description=""/>
       <hotspot tilt="0.2" url="{node7}" pan="-12.08" id="Point03" skinid="ht_node" title="Теплый тамбур" target="" description=""/>
     </hotspots>
     <media/>

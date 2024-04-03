@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.14/18105
 // Filename: Dvor.ggsk
-// Generated 2024-04-03T10:59:29
+// Generated 2024-04-03T11:04:41
 
 function pano2vrSkin(player,base) {
 	var me=this;
